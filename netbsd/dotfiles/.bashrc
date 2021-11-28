@@ -1,1 +1,1 @@
-/home/graphix/graphix/.bashrc
+. ~/.bash_profile
