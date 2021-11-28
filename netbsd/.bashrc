@@ -1,1 +1,0 @@
-/home/graphix/graphix/.bashrc
